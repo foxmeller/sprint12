@@ -1,4 +1,4 @@
-FROM golang:1.22
+FROM golang:1.24
 
 WORKDIR /go/Dev/go_backend_test_homework/Sprint12/final
 
