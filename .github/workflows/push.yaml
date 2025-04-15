@@ -37,7 +37,7 @@ jobs:
         with:
           images: foxmeller/sprint12
 
-      - name: Build and push Docker Inage
+      - name: Build and push Docker Image
         uses: docker/build-push-action@v5
         with:
           context: .
